@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eren
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning C.
+- 📫 How to reach me: eren_dogan01@hotmail.com
